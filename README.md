@@ -1,2 +1,2 @@
-# POO-Python-3b-Jo-o-Henrique
+# POO-Python-3b-Joao Henrique Moraes Farias
 Projeto Python
