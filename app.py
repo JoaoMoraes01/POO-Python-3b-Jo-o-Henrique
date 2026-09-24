@@ -61,3 +61,4 @@ catalogo = [
 ]
 for item in catalogo:
     item.exibir_info()
+# Comentario de Teste de GIt no Terminal 
